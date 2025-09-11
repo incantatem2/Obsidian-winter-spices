@@ -1,3 +1,9 @@
+div.workspace-tab-header-inner-title {
+color: #fff;
+
+}
+
+
 body {
 	--radius-s: 0px;
 	--radius-m: 0px;
@@ -150,6 +156,8 @@ a.tag, .cm-hashtag {
 
     --checkbox-radius: 10px;
     --checkbox-color: #7F6C5E;
+
+    --callout-blend-mode: normal;
     
 
 }
@@ -174,3 +182,4 @@ a.tag, .cm-hashtag {
 ::-webkit-scrollbar-track{width:8px;background:transparent !important;}
 ::-webkit-scrollbar{width:8px !important;background:transparent !important;}
 ::-webkit-scrollbar-thumb{width:8px !important;border-radius:0px !important;background:#A48783 !important;}
+
